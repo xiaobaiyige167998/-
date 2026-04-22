@@ -1,0 +1,136 @@
+﻿课程名字，课程描述，课程链接
+【学习 HTML】,HTML，即超文本标记语言（Hyper Text Markup Language）,www.runoob.com/html/html-tutorial.html
+【学习 HTML5】,HTML5 是下一代 HTML 标准,www.runoob.com/html/html5-intro.html
+【学习 CSS】,层叠样式表（Cascading StyleSheet）,www.runoob.com/css/css-tutorial.html
+【学习 CSS3】,CSS3是CSS技术的升级版本,www.runoob.com/css3/css3-tutorial.html
+【学习 Tailwind CSS】,功能丰富的、实用性优先的 CSS 框架,www.runoob.com/tailwindcss/tailwindcss-tutorial.html
+【学习 Bootstrap4】,Bootstrap4 前端框架,www.runoob.com/bootstrap4/bootstrap4-tutorial.html
+【学习 Bootstrap5】,Bootstrap5 目前是 Bootstrap 的最新版本,www.runoob.com/bootstrap5/bootstrap5-tutorial.html
+【学习 Font Awesome】,Font Awesome 是一套绝佳的图标字体库和CSS框架。,www.runoob.com/font-awesome/fontawesome-tutorial.html
+【学习 Foundation】,Foundation 用于开发响应式的 HTML, CSS and JavaScript 框架,www.runoob.com/foundation/foundation-tutorial.html
+【学习 JavaScript】,JavaScript 是 Web 的编程语言,www.runoob.com/js/js-tutorial.html
+【学习 HTML DOM】,HTML DOM 定义了访问和操作 HTML 文档的标准方法,www.runoob.com/htmldom/htmldom-tutorial.html
+【学习 jQuery】,jQuery 是一个 JavaScript 库,www.runoob.com/jquery/jquery-tutorial.html
+【学习 AngularJS】,AngularJS 通过新的属性和表达式扩展了 HTML,www.runoob.com/angularjs/angularjs-tutorial.html
+【学习 AngularJS2】,AngularJS2 是一款开源JavaScript库，由Google维护。,www.runoob.com/angularjs2/angularjs2-tutorial.html
+【学习 Vue.js】,Vue.js 是一套构建用户界面的渐进式框架。,www.runoob.com/vue2/vue-tutorial.html
+【学习 Vue3】,Vue 是一套构建用户界面的渐进式框架。,www.runoob.com/vue3/vue3-tutorial.html
+【学习 React】,React 是一个用于构建用户界面的 JAVASCRIPT 库,www.runoob.com/react/react-tutorial.html
+【学习 Next.js】,基于 React 的开源框架,www.runoob.com/nextjs/nextjs-tutorial.html
+【学习 TypeScript】,TypeScript 是 JavaScript 的一个超集，支持 ECMAScript 6 标准,www.runoob.com/typescript/ts-tutorial.html
+【学习 jQuery UI】,jQuery UI 是建立在 jQuery上的一组用户界面交互、特效、小部件及主题,www.runoob.com/jqueryui/jqueryui-tutorial.html
+【学习 jQuery EasyUI 】,jQuery EasyUI 是一个基于 jQuery 的框架，集成了各种用户界面插件,www.runoob.com/jeasyui/jqueryeasyui-tutorial.html
+【学习 Node.js】,Node.js 是运行在服务端的 JavaScript,www.runoob.com/nodejs/nodejs-tutorial.html
+【学习 Electron】,使用Web技术来构建跨平台的桌面应用程序,www.runoob.com/electron/electron-tutorial.html
+【学习 Playwright】,Playwright 是一个用于 Web 自动化和端到端测试的开源框架,www.runoob.com/playwright/playwright-tutorial.html
+【学习 AJAX】,AJAX = Asynchronous JavaScript and XML（异步的 JavaScript 和 XML）,www.runoob.com/ajax/ajax-tutorial.html
+【学习 JSON】,JSON 是存储和交换文本信息的语法,www.runoob.com/json/json-tutorial.html
+【学习 Echarts】,ECharts 是一个使用 JavaScript 实现的开源可视化库,www.runoob.com/echarts/echarts-tutorial.html
+【学习 Chart.js】,Chart.js 是一个简单、灵活的 JavaScript 图表工具,www.runoob.com/chartjs/chartjs-tutorial.html
+【学习 Highcharts】,Highcharts 是一个用纯JavaScript编写的一个图表库,www.runoob.com/highcharts/highcharts-tutorial.html
+【学习 Google 地图】,Google 地图接口使用说明,www.runoob.com/googleapi/google-maps-basic.html
+【学习 Python】,Python3.x 版本，未来主流版本。,www.runoob.com/python3/python3-tutorial.html
+【学习 Python2.x】,Python 是一种面向对象、解释型计算机程序设计语言,www.runoob.com/python/python-tutorial.html
+【学习 Linux】,Linux是一套免费使用和自由传播的类Unix操作系统,www.runoob.com/linux/linux-tutorial.html
+【学习 Docker】,Docker 是一个开源的应用容器引擎，基于 Go 语言,www.runoob.com/docker/docker-tutorial.html
+【学习 Ruby】,一种为简单快捷的面向对象编程（面向对象程序设计）而创的脚本语言,www.runoob.com/ruby/ruby-tutorial.html
+【学习 Java】,一种可以撰写跨平台应用软件的面向对象的程序设计语言,www.runoob.com/java/java-tutorial.html
+【学习 C】,一门通用计算机编程语言,www.runoob.com/c/c-tutorial.html
+【学习 C++】,C++是在C语言的基础上开发的一种通用编程语言,www.runoob.com/cplusplus/cpp-tutorial.html
+【学习 Perl】,Perl 是高级、通用、直译式、动态的程序语言,www.runoob.com/perl/perl-tutorial.html
+【学习 Servlet 】,运行在 Web 服务器或应用服务器上的程序,www.runoob.com/servlet/servlet-tutorial.html
+【学习 JSP】,JSP与PHP、ASP、ASP.NET等语言类似，运行在服务端的语言,www.runoob.com/jsp/jsp-tutorial.html
+【学习 Lua】,Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码形式开放,www.runoob.com/lua/lua-tutorial.html
+【学习 Rust】,Rust 语言是一种高效、可靠的通用高级语言,www.runoob.com/rust/rust-tutorial.html
+【学习 Zig】,Zig 是一个命令式、通用、静态类型、编译的系统编程语言,www.runoob.com/zig/zig-tutorial.html
+【学习 Scala】,Scala 是一门多范式（multi-paradigm）的编程语言。,www.runoob.com/scala/scala-tutorial.html
+【学习 Go】,Go语言是谷歌推出的一种全新的编程语言,www.runoob.com/go/go-tutorial.html
+【学习 PHP】,PHP 是一种通用开源脚本语言,www.runoob.com/php/php-tutorial.html
+【数据结构与算法】,数据结构是计算机中存储、组织数据的方式。,www.runoob.com/data-structures/data-structures-tutorial.html
+【学习 Django】,Django 是一个开放源代码的Web应用框架，由Python写成,www.runoob.com/django/django-tutorial.html
+【学习 FastAPI】,FastAPI 是一个用于构建 API 的 web 框架,www.runoob.com/fastapi/fastapi-tutorial.html
+【学习 Flask】,Flask 是一个用 Python 编写的轻量级 Web 应用框架,www.runoob.com/flask/flask-tutorial.html
+【学习 Pillow】,Pillow 是 Python 中处理图像的主要库,www.runoob.com/pillow/pillow-tutorial.html
+【学习 Zookeeper】,ZooKeeper 是一个分布式的，开放源码的分布式应用程序协调服务,www.runoob.com/w3cnote/zookeeper-tutorial.html
+【设计模式】,设计模式代表了最佳的实践，通常被有经验的面向对象的软件开发人员所采用,www.runoob.com/design-pattern/design-pattern-tutorial.html
+【Python 设计模式】,Python 写代码的套路,www.runoob.com/python-design-pattern/python-design-pattern-tutorial.html
+【正则表达式】,正则表达式是对字符串操作的一种逻辑公式,www.runoob.com/regexp/regexp-tutorial.html
+【学习 Maven】,Maven 是一个项目管理工具，可以对 Java 项目进行构建、依赖管理,www.runoob.com/maven/maven-tutorial.html
+【学习 CMake】,CMake 是个一个开源的跨平台自动化建构系统,www.runoob.com/cmake/cmake-tutorial.html
+【学习 Verilog】,Verilog 是一种用于设计数字电路的硬件描述语言，主要应用在集成电路系统中,www.runoob.com/w3cnote/verilog-tutorial.html
+【学习 ASP】,ASP（Active Server Pages 动态服务器页面）是一种生成动态交互性网页的强有力工具,www.runoob.com/asp/asp-tutorial.html
+【学习 AppML】,AppML 是一个为web应用程序设计的HTML扩展框,www.runoob.com/appml/appml-tutorial.html
+【学习 VBScript】,一种微软环境下的轻量级的解释型语言,www.runoob.com/vbscript/vbscript-tutorial.html
+【学习 SQL】,结构化查询语言(Structured Query Language),www.runoob.com/sql/sql-tutorial.html
+【学习 MySQL】,MySQL 是一个关系型数据库管理系统,www.runoob.com/mysql/mysql-tutorial.html
+【学习 PostgreSQL】,PostgreSQL 是一个免费的对象-关系数据库服务器(ORDBMS),www.runoob.com/postgresql/postgresql-tutorial.html
+【学习 SQLite】,一款轻型的数据库,www.runoob.com/sqlite/sqlite-tutorial.html
+【学习 MongoDB】,Mongo DB 是目前在IT行业非常流行的一种非关系型数据库(NoSql),www.runoob.com/mongodb/mongodb-tutorial.html
+【学习 Redis】,一个高性能的key-value数据库,www.runoob.com/redis/redis-tutorial.html
+【学习 Memcached】,Memcached是一个自由开源的，高性能，分布式内存对象缓存系统。,www.runoob.com/Memcached/Memcached-tutorial.html
+【学习 Python】,Python3.x 版本，未来主流版本。,www.runoob.com/python3/python3-tutorial.html
+【学习 NumPy】,NumPy 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算,www.runoob.com/numpy/numpy-tutorial.html
+【学习 Pandas】,Pandas 是 Python 语言的一个扩展程序库，用于数据分析,www.runoob.com/pandas/pandas-tutorial.html
+【学习 Matplotlib】,Matplotlib 是 Python 的绘图库,www.runoob.com/matplotlib/matplotlib-tutorial.html
+【学习 Scipy】,SciPy 是一个开源的 Python 算法库和数学工具包。,www.runoob.com/scipy/scipy-tutorial.html
+【学习 Pytorch】,Pytorch 是一个开源的机器学习库。,www.runoob.com/pytorch/pytorch-tutorial.html
+【学习 TensorFlow】,TensorFlow 是一个开源机器学习框架。,www.runoob.com/tensorflow/tensorflow-tutorial.html
+【学习 Ollama】,开源的本地大语言模型运行框架。,www.runoob.com/ollama/ollama-tutorial.html
+【机器学习】,机器学习是让机器通过经验（数据）来做决策和预测。,www.runoob.com/ml/ml-tutorial.html
+【学习 Jupyter Notebook】,一款开源的交互式计算工具。,www.runoob.com/jupyter-notebook/jupyter-notebook-tutorial.html
+【AI Agent(智能体)】,AI Agent(智能体)让模型不只回答问题，而是按步骤完成动作。,www.runoob.com/ai-agent/ai-agent-tutorial.html
+【Claude Code】,Anthropic 推出的 AI 编程协作工具。,www.runoob.com/claude-code/claude-code-tutorial.html
+【OpenCode】,开源的 AI 编程协作工具。,www.runoob.com/opencode/opencode-tutorial.html
+【Codex 教程】,OpenAI 推出的 AI 编程协作工具。,www.runoob.com/codex/codex-tutorial.html
+【学习 scikit-learn】,scikit-learn 是一个开源的机器学习库。,www.runoob.com/sklearn/sklearn-tutorial.html
+【学习 R】,R 语言是为数学研究工作者设计的一种数学编程语言,www.runoob.com/r/r-tutorial.html
+【学习 OpenCV】,开源的计算机视觉和机器学习软件库,www.runoob.com/opencv/opencv-tutorial.html
+【学习 NLP】,NLP (自然语言处理)是人工智能和语言学的一个交叉领域,www.runoob.com/nlp/nlp-tutorial.html
+【学习 Selenium】,用于自动化 Web 浏览器操作的工具集,www.runoob.com/selenium/selenium-tutorial.html
+【学习 Julia】,Julia 是一个面向科学计算的高性能动态高级程序设计语言,www.runoob.com/julia/julia-tutorial.html
+【量化交易】,利用计算机编程来进行金融交易的一种策略。,www.runoob.com/qt/qt-tutorial.html
+【学习 Dash】,构建数据分析和数据可视化的 Web 应用程序。,www.runoob.com/dash/dash-tutorial.html
+【学习 Android】,Android 是一种基于Linux的自由及开放源代码的操作系统，主要使用于移动设备,www.runoob.com/w3cnote/android-tutorial-intro.html
+【学习 Swift】,Swift 是一种支持多编程范式和编译式的编程语言,用于开发 iOS，OS X 和 watchOS应用程序。,www.runoob.com/swift/swift-tutorial.html
+【学习 jQuery Mobile】,jQuery Mobile是jQuery 在手机上和平板设备上的版本,www.runoob.com/jquerymobile/jquerymobile-tutorial.html
+【学习 ionic】,ionic 是一个强大的 HTML5 应用程序开发框架(HTML5 Hybrid Mobile App Framework )。,www.runoob.com/ionic/ionic-tutorial.html
+【学习 Kotlin】,在 Java 虚拟机上运行的静态类型编程语言，Android 官方开发语言,www.runoob.com/kotlin/kotlin-tutorial.html
+【学习 XML】,XML 被设计用来传输和存储数据,www.runoob.com/xml/xml-tutorial.html
+【学习 DTD】,DTD（文档类型定义）的作用是定义 XML 文档的合法构建模块,www.runoob.com/dtd/dtd-tutorial.html
+【学习 XML DOM】,XML DOM 定义访问和操作XML文档的标准方法,www.runoob.com/dom/dom-tutorial.html
+【学习 XSLT】,XSL 是一个 XML 文档的样式表语言，XSLT 指 XSL 转换,www.runoob.com/xsl/xsl-tutorial.html
+【学习 XPath】,XPath 是一门在 XML 文档中查找信息的语言,www.runoob.com/xpath/xpath-tutorial.html
+【学习 XQuery】,XQuery 被设计用来查询 XML 数据,www.runoob.com/xquery/xquery-tutorial.html
+【学习 XLink】,XLink 定义在 XML 文档中创建超级链接的标准方法,www.runoob.com/xlink/xlink-tutorial.html
+【学习 XPointer】,XPointer是在可扩展标志语言（XML）文件中定位数据的一种语言,www.runoob.com/xlink/xlink-tutorial.html
+【学习 XML Schema】,XML Schema 描述了 XML文档的结构,www.runoob.com/schema/schema-tutorial.html
+【学习 XSL-FO】,XSL-FO 指可扩展样式表语言格式化对象,www.runoob.com/xslfo/xslfo-tutorial.html
+【学习 SVG】,SVG 使用 XML 格式定义图像,www.runoob.com/svg/svg-tutorial.html
+【学习 ASP.NET】,ASP.NET 是一个使用 HTML、CSS、JavaScript 和服务器脚本创建网页和网站的开发框架,www.runoob.com/aspnet/aspnet-tutorial.html
+【学习 C#】,C# 是一个简单的、现代的、通用的、面向对象的编程语言,www.runoob.com/csharp/csharp-tutorial.html
+【学习 PowerShell】,PowerShell 是微软开发的任务自动化和配置管理框架,www.runoob.com/powershell/powershell-tutorial.html
+【学习 Web Pages】,Web Pages 是三种网页编程模型中的一种，用于创建网站和web 应用程序,www.runoob.com/aspnet/webpages-intro.html
+【学习 Razor】,Razor 是一种标记语法，可以让您将基于服务器的代码（Visual Basic 和 C#）嵌入到网页中,www.runoob.com/aspnet/razor-intro.html
+【学习 MVC】,MVC（Model View Controller 模型-视图-控制器）,www.runoob.com/aspnet/mvc-intro.html
+【学习 Web Forms】,Web Forms 是三种创建 ASP.NET 网站和 Web 应用程序的编程模式中的一种,www.runoob.com/aspnet/aspnet-intro.html
+【学习 Web Service】,Web Service 脚本平台需支持 XML + HTTP,www.runoob.com/webservices/webservices-tutorial.html
+【学习 WSDL】,WSDL是一门基于 XML 的语言，用于描述 Web Service 以及如何对它们进行访问,www.runoob.com/wsdl/wsdl-tutorial.html
+【学习 SOAP】,SOAP 是一种简单的基于 XML 的协议，它使应用程序通过 HTTP 来交换信息,www.runoob.com/soap/soap-tutorial.html
+【学习 RSS】,RSS基于XML标准，在互联网上被广泛采用的内容包装和投递协议,www.runoob.com/rss/rss-tutorial.html
+【学习 RDF】,DF(资源描述框架)是描述网络资源的 W3C 标准,www.runoob.com/rdf/rdf-tutorial.html
+【学习 VS Code】,VS Code 是由微软开发的一个现代化、轻量级的代码编辑器,www.runoob.com/vscode/vscode-tutorial.html
+【学习 PyCharm】,专门用于 Python 编程的集成开发环境（IDE）,www.runoob.com/pycharm/pycharm-tutorial.html
+【学习 Swagger】,RESTful API 的开源工具集,www.runoob.com/swagger/swagger-tutorial.html
+【学习 RESTful API】,RESTful API 是应用程序之间通信的标准,www.runoob.com/restfulapi/restful-api-tutorial.html
+【学习 Eclipse】,Eclipse 是一个开放源代码的、基于 Java 的可扩展开发平台,www.runoob.com/eclipse/eclipse-tutorial.html
+【学习 Git】,Git是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目,www.runoob.com/git/git-tutorial.html
+【学习 Svn】,SVN 是一个开放源代码的版本控制系统,www.runoob.com/svn/svn-tutorial.html
+【学习 Markdown】,Markdown 是一种轻量级标记语言,www.runoob.com/markdown/md-tutorial.html
+【学习 HTTP】,HTTP协议（HyperText Transfer Protocol，超文本传输协议）是因特网上应用最为广泛的一种网络传输协议,www.runoob.com/http/http-tutorial.html
+【网站建设指南】,网站建设指导课程,www.runoob.com/web/web-buildingprimer.html
+【浏览器信息】,对于网站开发人员来说，浏览器信息和统计数据都是非常重要的,www.runoob.com/browsers/browser-information.html
+【网络协议】,定义设备之间通信规则和标准的集合,www.runoob.com/np/np-tutorial.html
+【网站主机教程】,如果您希望向全世界发布自己的网站，那么您的网站就需要被放置于一个 WEB 服务器,www.runoob.com/hosting/hosting-tutorial.html
+【学习 TCP/IP】,TCP/IP 是因特网的通信协议,www.runoob.com/tcpip/tcpip-tutorial.html
+【学习 W3C】,W3C 让每个人都能在互联网上分享资源,www.runoob.com/w3c/w3c-tutorial.html
+【网站品质】,学习如何创建高质量的web网站,www.runoob.com/quality/quality-tutorial.html
